@@ -3,6 +3,8 @@ body{
     background: #f4f4f4;
 }
 
+/* Navbar */
+
 .navbar{
 
     min-height: 33px !important;
@@ -74,6 +76,7 @@ body{
 }
 /* End Navbar Custom Settings*/
 
+/* Color class for panels and tables */
 .main-color-bg{
 
     background-color: #ef0000 !important;
@@ -81,7 +84,21 @@ body{
     color: #ffffff
 }
 
+/* Header */
 
+#header{
+
+    background: #000000;
+    color: #ffffff;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+#header .create_content{
+
+    padding-top: 20px;
+
+}
 
 
 
